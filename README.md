@@ -1,4 +1,4 @@
-This is the source code for my personal website.
+This is the source code for my personal website jpath1.github.io
 
 The website is divided into several sections:
 
